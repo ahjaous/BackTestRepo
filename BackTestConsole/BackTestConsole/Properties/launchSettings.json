@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BackTestConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\localuser\\Documents\\systematic-strategies-net\\Resources\\TestData\\Test_5_1\\params_5_1.json\r\nC:\\Users\\localuser\\Documents\\systematic-strategies-net\\Resources\\TestData\\Test_5_1\\data_5_1.csv\r\nC:\\Users\\localuser\\source\\output_file.json"
+    }
+  }
+}
